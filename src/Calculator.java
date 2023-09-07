@@ -49,8 +49,6 @@ public class Calculator {
 
             if (a <= 10 && b <= 10) {
             } else {
-                System.out.println("IDI NAHUY");
-                System.out.println("БЫДЛО");
                 return;
             }
 
